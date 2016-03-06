@@ -60,8 +60,8 @@
 </div>
 
 <script src="http://maps.googleapis.com/maps/api/js?libraries=places&ar=AR"></script>
-<link rel="stylesheet" type="text/css" href="<?= base_url() ?>global/admin/css/map.css"/>
-<script src="<?= base_url() ?>global/admin/js/geocomplete.min.js"></script>
+<link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/css/map.css"/>
+<script src="<?= base_url() ?>assets/js/geocomplete.min.js"></script>
 
 <script>
     $(function () {
